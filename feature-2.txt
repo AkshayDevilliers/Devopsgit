@@ -1,1 +1,2 @@
-this is feature2
+this is feature
+making new changes to feature2
